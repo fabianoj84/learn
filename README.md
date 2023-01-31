@@ -1,4 +1,4 @@
-<h1 align="center"> Menu Responsivo </h1>
+<h1 align="center"> Train </h1>
 
 
 <p align="center">
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Exercício Menu Mobile
+Exercício: Menu Mobile, Card Copa
 
 
 ## :memo: Licença
